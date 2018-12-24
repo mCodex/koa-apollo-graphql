@@ -35,7 +35,7 @@ And then your build will be available inside `dist` folder.
 
 ## Roadmap
 
-[ ] Mongoose
+[X] Mongoose
 
 [X] Webpack (only for production build with uglify)
 
