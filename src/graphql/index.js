@@ -1,5 +1,5 @@
-import helloWorldSchema from './schemas/helloWorld';
+import userSchema from './schemas/user';
 
 export default (
-  helloWorldSchema
+  userSchema
 );
