@@ -13,18 +13,30 @@ My KOA stack starter including:
 
 Clone or download this repository and run:
 
-```javascript
+```bash
 yarn
 ```
 
 And then:
 
-```javascript
+```bash
 yarn start
 ```
+
+After that, open: http://localhost:4000/graphql
+
+## Production Build
+
+```bash
+yarn build
+```
+
+And then your build will be available inside `dist` folder.
 
 ## Roadmap
 
 [ ] Mongoose
-[ ] Webpack (only for production build with uglify)
+
+[X] Webpack (only for production build with uglify)
+
 [ ] Jest
